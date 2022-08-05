@@ -11,11 +11,10 @@ CUDA supports many, if not most, of the [world's most performant applications](h
 Learning CUDA will enable you to accelerate your own applications. Accelerated applications perform much faster than their CPU-only couterparts, and make possible computations that would be otherwise prohibited given the limited performance of CPU-only applications. In this lab you will receive an introduction to programming accelerated applications with CUDA C/C++, enough to be able to begin work accelerating your own CPU-only applications for performance gains, and for moving into novel computational territory.
 
 **By following these three notebooks, you can step into Cuda.**
+- [Task1](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/FUNDAMENTALS%20OF%20CUDA%20PROGRAMMING%20USING%20C%2B%2B/task1/AC_CUDA_C.ipynb)
 
-- [INTRODUCTION] (https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Introduction%20to%20CUDA%20Python%20with%20Numba/Introduction%20to%20CUDA%20Python%20with%20Numba.ipynb)
+- [Task2](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Effective%20Memory%20Use/Effective%20Memory%20Use.ipynb](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blaob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Custom%20CUDA%20Kernels%20in%20Python%20with%20Numba/Custom%2BCUDA%2BKernels%2Bin%2BPython%2Bwith%2BNumba.ipynb)
 
-- [CUSTOM CUDA KERNELS] 
-
-- [EFFECTIVE MEMORY USE](/task2/UnifiedMemory.ipynb)
+- [Task3](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Effective%20Memory%20Use/Effective%20Memory%20Use.ipynb)
 
 **My certificate link :** 
