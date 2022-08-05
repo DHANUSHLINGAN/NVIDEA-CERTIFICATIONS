@@ -12,9 +12,9 @@ Learning CUDA will enable you to accelerate your own applications. Accelerated a
 
 **By following these three notebooks, you can step into Cuda.**
 
-- [INTRODUCTION](/task1/AC_CUDA_C.ipynb)
+- [INTRODUCTION] (https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Introduction%20to%20CUDA%20Python%20with%20Numba/Introduction%20to%20CUDA%20Python%20with%20Numba.ipynb)
 
-- [CUSTOM CUDA KERNELS](/task2/UnifiedMemory.ipynb)
+- [CUSTOM CUDA KERNELS] 
 
 - [EFFECTIVE MEMORY USE](/task2/UnifiedMemory.ipynb)
 
