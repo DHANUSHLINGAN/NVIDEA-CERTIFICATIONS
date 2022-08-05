@@ -11,7 +11,7 @@ CUDA supports many, if not most, of the [world's most performant applications](h
 Learning CUDA will enable you to accelerate your own applications. Accelerated applications perform much faster than their CPU-only couterparts, and make possible computations that would be otherwise prohibited given the limited performance of CPU-only applications. In this lab you will receive an introduction to programming accelerated applications with CUDA C/C++, enough to be able to begin work accelerating your own CPU-only applications for performance gains, and for moving into novel computational territory.
 
 **By following these three notebooks, you can step into Cuda.**
-- [Task1](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/FUNDAMENTALS%20OF%20CUDA%20PROGRAMMING%20USING%20C%2B%2B/task1/AC_CUDA_C.ipynb)
+- [Task1](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Introduction%20to%20CUDA%20Python%20with%20Numba/Introduction%20to%20CUDA%20Python%20with%20Numba.ipynb)
 
 
 - [Task3](https://github.com/DHANUSHLINGAN/NVIDEA-CERTIFICATIONS/blob/main/Fundamentals-of-Accelerated-Computing-with-CUDA-Python/Effective%20Memory%20Use/Effective%20Memory%20Use.ipynb)
